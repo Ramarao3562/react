@@ -1,0 +1,17 @@
+{
+  "name": "react-single-path",
+  "version": "1.0.0",
+  "description": "Simple React app with everything in the root directory",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
